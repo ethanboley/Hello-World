@@ -2,13 +2,11 @@
 
 This is a demonstration of how python, VS Code, and github work together using a simple hello world program. 
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.loom.com/share/994f5088e0be47bc827858d4de8ca38c)
 
 # Development Environment
 
-- Python 3
+- Python 3.11
 - VS Code
 - Git / Github
 
